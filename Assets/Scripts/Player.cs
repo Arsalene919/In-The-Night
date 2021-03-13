@@ -18,5 +18,6 @@ public class Player : MonoBehaviour
 
         PlayerName = data.PlayerName;
         PlayerRole = data.PlayerRole;
+        Debug.Log("hello");
     }
 }
